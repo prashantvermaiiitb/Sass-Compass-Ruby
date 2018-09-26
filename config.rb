@@ -1,0 +1,5 @@
+# http_path = "/"
+css_dir = "cssoutput"
+sass_dir = "stylesheet"
+images_dir = "images"
+# javascripts_dir = "javascripts"

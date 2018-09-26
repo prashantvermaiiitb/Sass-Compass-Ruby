@@ -1,0 +1,5 @@
+@import "toolbar/*.png";
+
+@include all-toolbar-sprites(joomla);
+
+.joomla{@include toolbar-sprites(joomla);}
